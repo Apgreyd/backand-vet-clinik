@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "backand vet clinik", "backand vet clinik\backand vet clinik.pyproj", "{CF7E94E5-BD69-4557-AF36-59B486A6EB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7E94E5-BD69-4557-AF36-59B486A6EB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7E94E5-BD69-4557-AF36-59B486A6EB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBDD4B7C-08F2-43B2-96AA-26F2140FA8EF}
+	EndGlobalSection
+EndGlobal
